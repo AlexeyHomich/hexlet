@@ -1,0 +1,1 @@
+курс SCIP на hexlet.org
